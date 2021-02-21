@@ -1,4 +1,4 @@
-# Efeitou hover margin bottom
+# Efeito hover margin bottom
 
 Cria uma margin bottom ao passar o mouse sobre o botão
 
